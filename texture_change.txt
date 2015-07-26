@@ -1,3 +1,5 @@
 In this file we will put the changes made to the texture.
 
 Original color: Green.
+
+New color added: Blue.
